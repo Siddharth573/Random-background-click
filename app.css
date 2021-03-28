@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 100px;
+}
+
+#here{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: none;
+    font-size: medium;
+}
+button:hover{
+    border-radius: 5px;
+    border: none;
+    background-color: cadetblue;
+}
+#myFirst{
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+}
+#myLast{
+    display: flex;
+    justify-content: center;
+    padding: 30px 10px;
+}
